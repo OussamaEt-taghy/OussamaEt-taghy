@@ -4,6 +4,16 @@ Full Stack Web Developer and second year Master's student in Networks and Comput
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamaet-taghy&label=Profile%20views&color=0e75b6&style=flat" alt="oussamaet-taghy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oussamaet-taghy" alt="oussamaet-taghy" /></a> </p>
+<!-- Animated Coding GIF -->
+<p align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500" height="300">
+</p>
+
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=oussamaet-taghy" alt="oussamaet-taghy" />
+    </a>
+</p>
 
 - 🌱 I’m currently learning **about automation testing software**
 
