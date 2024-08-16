@@ -2,7 +2,7 @@
 Full Stack Web Developer and second year Master's student in Networks and Computer Systems at https://www.fsts.ac.ma/. Holder of a Bachelor's Degree in Science and Technology, specializing in "Information Systems and Digital Transformation" from the same faculty, I am known for my seriousness, my rigor, my enthusiasm and my great diligence. My passion for IT, particularly software development, pushes me to strive for excellence in the design, development and production of websites. I have a great creative capacity and a speed of learning new technologies. Always eager to enrich my skills, both in the field of IT and in that of communication, I do not hesitate to share my knowledge with others and to express myself in public. My goal is to continue to develop my skills to reach a high level of expertise in my field.
 <!-- Animated Coding GIF -->
 <p align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500" height="300">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500" height="200">
 </p>
 
 <p align="left">
