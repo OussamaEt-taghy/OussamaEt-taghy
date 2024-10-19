@@ -11,7 +11,7 @@ Full Stack Software Enginer and second year Master's student in Networks and Com
     </a>
 </p>
 
-- 🌱 I’m currently learning **about automation testing software**
+- 🌱 I’m currently learning **about DevOps**
 
 - 👯 I’m looking to collaborate on **Angular,Spring Boot projects**
 
