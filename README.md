@@ -2,7 +2,7 @@
 
 I design and build scalable microservices and multi-tenant SaaS platforms with Java (Spring Boot, Quarkus) and Go. I work daily with event-driven architectures, Apache Kafka, Keycloak and Kubernetes, and I care about clean architecture, testing and observability.
 
-📍 Casablanca, Morocco · 💼 Backend Systems Engineer at SofiSoft (banking & retail software)
+📍 Casablanca, Morocco ·
 
 🚀 What I work on
 ☁️ SaaS Retail platform: cloud-native architecture and microservices with Quarkus & Spring Boot
